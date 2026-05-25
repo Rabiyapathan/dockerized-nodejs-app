@@ -1,0 +1,23 @@
+{
+  "name": "dockerized-nodejs-app",
+  "version": "1.0.0",
+  "description": "A Dockerized Node.js application demonstrating containerization, deployment, and DevOps workflow basics.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rabiyapathan/dockerized-nodejs-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rabiyapathan/dockerized-nodejs-app/issues"
+  },
+  "homepage": "https://github.com/Rabiyapathan/dockerized-nodejs-app#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
